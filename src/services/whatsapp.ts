@@ -19,7 +19,7 @@ client.on('ready', async () => {
     `[${client.info.pushname}] - WhatsApp Online\n[x] Please, *like* project: https://github.com/caioagiani/whatsapp-bot`,
   );
 
-  console.log('WhatsApp bot successfully connected!');
+  console.log('WhatsApp bot successfully connected!!');
 });
 
 client.initialize();
